@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Luisblanco77 MD and CS student. 
-- 👀 I’m interested in coding, videogames and wine. 
-- 🌱 I’m currently learning Python, SQL, Java, C++. 
-- 💞️ I’m looking to collaborate on medical programming. 
+- 👋 Hi, I’m @Luisblanco77 Medical Doctor and Computer Science student. 
+- 👀 I’m interested in frontend, fullstack and data science, passionate about medicine and coding. 
+- 🌱 Python, SQL, Java, HTML, CSS, Javascript. 
+- 💞️ I’m looking for a job in programming, fast learner, cool guy and responsible. 
 - 📫 How to reach me ... nandoblancocr@gmail.com 
 
 <!---

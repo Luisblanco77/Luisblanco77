@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luisblanco77 Medical Doctor and Computer Science student. 
-- 👀 I’m interested in frontend, fullstack and data science, passionate about medicine and coding. 
+- 👀 I’m interested in frontend, backend, fullstack and data science, passionate about medicine and coding. 
 - 🌱 Python, SQL, Java, HTML, CSS, Javascript. 
 - 💞️ I’m looking for a job in programming, fast learner, cool guy and responsible. 
 - 📫 How to reach me ... nandoblancocr@gmail.com 
